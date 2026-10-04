@@ -1,0 +1,1 @@
+ export const toneText = { success: 'text-success', info: 'text-info', gold: 'text-gold', danger: 'text-danger', muted: 'text-ink-soft', brand: 'text-brand-500', plum: 'text-plum', slate: 'text-slate' };
