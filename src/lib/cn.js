@@ -1,1 +1,2 @@
- export const cn = (...classes) => classes.filter(Boolean).join(' ');
+  export const cn = (...classNames) =>
+  classNames.filter(Boolean).join(' ');
